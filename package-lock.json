@@ -1,0 +1,5 @@
+{
+  "name": "Connectly App",
+  "description": "A modern WebRTC video chat application with multi-language support and contact management.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
